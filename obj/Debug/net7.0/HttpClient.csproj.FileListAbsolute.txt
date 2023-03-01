@@ -1,0 +1,15 @@
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\HttpClient.csproj.AssemblyReference.cache
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\HttpClient.AssemblyInfoInputs.cache
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\HttpClient.AssemblyInfo.cs
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\HttpClient.csproj.CoreCompileInputs.cache
+C:\do0CodeS\PromptDocsNet7\HttpClient\bin\Debug\net7.0\HttpClient.exe
+C:\do0CodeS\PromptDocsNet7\HttpClient\bin\Debug\net7.0\HttpClient.deps.json
+C:\do0CodeS\PromptDocsNet7\HttpClient\bin\Debug\net7.0\HttpClient.runtimeconfig.json
+C:\do0CodeS\PromptDocsNet7\HttpClient\bin\Debug\net7.0\HttpClient.dll
+C:\do0CodeS\PromptDocsNet7\HttpClient\bin\Debug\net7.0\HttpClient.pdb
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\HttpClient.dll
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\refint\HttpClient.dll
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\HttpClient.pdb
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\HttpClient.genruntimeconfig.cache
+C:\do0CodeS\PromptDocsNet7\HttpClient\obj\Debug\net7.0\ref\HttpClient.dll
