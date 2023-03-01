@@ -1,12 +1,10 @@
 
 
-# netCoreHttpClientApiTokenJWT
+# Testando o recebimento do Token JWT externo através de um "Request" via ext. VSCode RapidAPI e C# .NET CORE HttpClient.
 
-Autenticando uma aplicação de linha de comando com o VSCode .NET Core 7 com uma WebApi2 ASP.NET com Identity Framework & .NET HttpClient
+Para a Api externa, estamos utilizando uma WebApi 2 C# ASP.NET 4.8. com o .NET IdentityFramework / OWIN.
 
-Desenvolvimento da WebApi 2 ASP.NET nesse link:
-
-Tela com o resultado de nosso teste com a extensão RAPIDAPI do VSCode:
+Tela com o resultado do nosso teste com a extensão RapidAPI do VSCode:
 
 ![Imagem 1](./img/img1.png "Imagem 1 desenvolvimento")
 ![Imagem 1](./img/img3.png "Imagem 1 desenvolvimento")
@@ -14,7 +12,7 @@ Tela com o resultado de nosso teste com a extensão RAPIDAPI do VSCode:
 
 ![Imagem 1](./img/img4.png "Imagem 1 desenvolvimento")
 
-Através do Rest Client, e nosso primeiro teste obtendo o token JWT de acesso, podemos utilizar uma sujestão para o código desejado. No nosso caso, estaremos utilizando a biblioteca .NET HttpClient.
+Através do RapidAPI, e nosso primeiro teste obtendo o token JWT de acesso, podemos utilizar uma sujestão para o código desejado. Neste caso, estaremos utilizando a biblioteca .NET HttpClient.
 
 ```
 using System.Net.Http;
@@ -44,6 +42,6 @@ using (var response = await client.SendAsync(request))
     Console.WriteLine(body);
 }
 ```
-Após implementação no arquivo Program.cs , obtemnos o resultado solicitado pelo código onde em: Console.WriteLine(body); obtemos o resultado consurme a imagem abaixo:
+Após implementação no arquivo Program.cs , obtemos o mesmo resultado solicitado pelo teste anterior,através do comando: Console.WriteLine(body); obtemos o resultado conforme a imagem abaixo:
 
 ![Imagem 1](./img/img6.png "Imagem 1 desenvolvimento")
